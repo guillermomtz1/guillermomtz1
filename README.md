@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guillermomtz1
+- 👋 Hi, I’m Guillermo Martinez
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Data Science & Japanese
 - 📫 How to reach me @jguillermo.martinez1@gmail.com
