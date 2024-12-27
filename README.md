@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guillermo Martinez
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Data Science & Japanese
+- 🌱 I’m currently learning Computer Science & Japanese
 - 📫 How to reach me @jguillermo.martinez1@gmail.com
 - ⚡ Fun fact: I'm a blue belt in Brazilian Jiu-jitsu
 
